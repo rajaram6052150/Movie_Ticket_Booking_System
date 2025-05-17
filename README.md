@@ -43,19 +43,14 @@ MovieBookingSystem/
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/MovieBookingSystem.git
+   git clone https://github.com/rajaram6052150/Movie_Ticket_Booking_System.git
    cd MovieBookingSystem
    ```
 
 2. Compile and Run  
    ```bash
-   g++ -std=c++17 src/main.cpp -o booking
-   ./booking
-   ```
+   java Movie_Ticket_Booking_System.java
 
-3. Or use any C++ IDE (e.g., CLion, Code::Blocks, VSCode)
-
----
 
 ## ⚙️ Tech Stack
 
