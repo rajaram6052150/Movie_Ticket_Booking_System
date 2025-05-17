@@ -59,10 +59,10 @@ MovieBookingSystem/
 
 ## ⚙️ Tech Stack
 
-- **C++17**
-- **Standard Template Library (STL)**
-- **Multithreading (std::thread, mutex)**
-- Optional: Extendable to **GUI (Qt)** or **Web (FastCGI)**
+- **Java**
+- **Collection Framework**
+- **Multithreading (thread, mutex)**
+  
 
 ---
 
